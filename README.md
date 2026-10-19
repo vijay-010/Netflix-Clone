@@ -1,2 +1,3 @@
-# portfolio
-A simple portfolio
+# Netflix clone
+A simple Netflix clone using HTML, CSS.
+
